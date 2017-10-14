@@ -1,0 +1,4 @@
+Web Api 2 with mySQL database
+
+1: create new project: Web > new Microsoft Web > Template = Empty, check WebApi (not MVC)
+2: Download and install MySql connector (https://dev.mysql.com/downloads/connector/net/)
