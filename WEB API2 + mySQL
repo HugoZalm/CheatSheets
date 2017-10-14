@@ -2,3 +2,4 @@ Web Api 2 with mySQL database
 
 1: create new project: Web > new Microsoft Web > Template = Empty, check WebApi (not MVC)
 2: Download and install MySql connector (https://dev.mysql.com/downloads/connector/net/)
+3: add reference: C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.5\MySql.Data.dll
